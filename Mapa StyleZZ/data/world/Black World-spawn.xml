@@ -1990,8 +1990,8 @@
   <spawn centerx="423" centery="534" centerz="7" radius="1">
     <npc name="Willy Wonka" x="-1" y="0" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="443" centery="536" centerz="7" radius="3">
-    <npc name="Gems Seller" x="1" y="0" z="7" spawntime="30"/>
+  <spawn centerx="441" centery="537" centerz="7" radius="3">
+    <npc name="Gems Seller" x="2" y="0" z="7" spawntime="30"/>
   </spawn>
   <spawn centerx="335" centery="541" centerz="7" radius="5">
     <monster name="Wild Warrior" x="5" y="-4" z="7" spawntime="60"/>
@@ -2134,9 +2134,6 @@
     <monster name="Behemoth" x="-4" y="4" z="7" spawntime="60"/>
     <monster name="Dragon Lord" x="4" y="4" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="767" centery="628" centerz="7" radius="5">
-    <monster name="Hyaena" x="-1" y="-3" z="7" spawntime="60"/>
-  </spawn>
   <spawn centerx="490" centery="629" centerz="7" radius="5">
     <monster name="Wolf" x="0" y="-1" z="7" spawntime="60"/>
   </spawn>
@@ -2195,9 +2192,6 @@
   <spawn centerx="486" centery="639" centerz="7" radius="5">
     <monster name="Wolf" x="-2" y="2" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="762" centery="639" centerz="7" radius="5">
-    <npc name="Mad" x="-1" y="0" z="7" spawntime="60"/>
-  </spawn>
   <spawn centerx="679" centery="640" centerz="7" radius="5">
     <monster name="Hyaena" x="3" y="-2" z="7" spawntime="60"/>
   </spawn>
@@ -2205,7 +2199,6 @@
     <monster name="Wolf" x="1" y="-2" z="7" spawntime="60"/>
     <monster name="Wolf" x="-4" y="4" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="762" centery="641" centerz="7" radius="2"/>
   <spawn centerx="607" centery="645" centerz="7" radius="5">
     <monster name="Wolf" x="2" y="-3" z="7" spawntime="60"/>
   </spawn>
@@ -2222,9 +2215,6 @@
   <spawn centerx="532" centery="648" centerz="7" radius="5">
     <monster name="Wolf" x="0" y="1" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="766" centery="648" centerz="7" radius="5">
-    <monster name="Scorpion" x="-4" y="2" z="7" spawntime="60"/>
-  </spawn>
   <spawn centerx="432" centery="651" centerz="7" radius="5">
     <monster name="Deer" x="-4" y="0" z="7" spawntime="50"/>
     <monster name="Wolf" x="2" y="0" z="7" spawntime="60"/>
@@ -2234,9 +2224,6 @@
   </spawn>
   <spawn centerx="417" centery="652" centerz="7" radius="5">
     <monster name="Wolf" x="-2" y="0" z="7" spawntime="60"/>
-  </spawn>
-  <spawn centerx="836" centery="655" centerz="7" radius="1">
-    <npc name="Lector" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="497" centery="656" centerz="7" radius="5">
     <monster name="Wolf" x="5" y="-1" z="7" spawntime="60"/>
@@ -2269,9 +2256,6 @@
   </spawn>
   <spawn centerx="466" centery="665" centerz="7" radius="5">
     <monster name="Wolf" x="-3" y="-4" z="7" spawntime="60"/>
-  </spawn>
-  <spawn centerx="865" centery="673" centerz="7" radius="5">
-    <npc name="Dark Rodo" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="374" centery="674" centerz="7" radius="5">
     <monster name="Wolf" x="-1" y="4" z="7" spawntime="60"/>
@@ -2321,9 +2305,6 @@
   </spawn>
   <spawn centerx="429" centery="686" centerz="7" radius="5">
     <monster name="Wolf" x="-1" y="2" z="7" spawntime="60"/>
-  </spawn>
-  <spawn centerx="754" centery="687" centerz="7" radius="5">
-    <monster name="Scorpion" x="-4" y="-2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="523" centery="691" centerz="7" radius="5">
     <monster name="Wolf" x="4" y="-4" z="7" spawntime="60"/>
@@ -2560,7 +2541,6 @@
     <monster name="Hunter" x="-4" y="4" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="601" centery="817" centerz="7" radius="5">
-    <monster name="Wolf" x="1" y="-4" z="7" spawntime="0"/>
     <monster name="Tiger" x="-3" y="3" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="366" centery="818" centerz="7" radius="5">
@@ -2572,7 +2552,6 @@
   </spawn>
   <spawn centerx="625" centery="818" centerz="7" radius="5">
     <monster name="Tiger" x="-3" y="-3" z="7" spawntime="60"/>
-    <monster name="Wolf" x="3" y="3" z="7" spawntime="0"/>
   </spawn>
   <spawn centerx="422" centery="820" centerz="7" radius="5">
     <monster name="Smuggler" x="-4" y="-2" z="7" spawntime="60"/>
@@ -2635,13 +2614,11 @@
   </spawn>
   <spawn centerx="635" centery="839" centerz="7" radius="5">
     <monster name="Tiger" x="-3" y="-3" z="7" spawntime="60"/>
-    <monster name="Wolf" x="2" y="3" z="7" spawntime="0"/>
   </spawn>
   <spawn centerx="568" centery="840" centerz="7" radius="5">
     <monster name="Hydra" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="605" centery="845" centerz="7" radius="5">
-    <monster name="Wolf" x="-3" y="-4" z="7" spawntime="0"/>
     <monster name="Tiger" x="1" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="452" centery="847" centerz="7" radius="5">
@@ -2660,7 +2637,6 @@
   </spawn>
   <spawn centerx="619" centery="856" centerz="7" radius="5">
     <monster name="Tiger" x="2" y="-3" z="7" spawntime="60"/>
-    <monster name="Wolf" x="-3" y="2" z="7" spawntime="0"/>
   </spawn>
   <spawn centerx="481" centery="857" centerz="7" radius="5">
     <monster name="Bandit" x="1" y="-2" z="7" spawntime="60"/>
@@ -2679,7 +2655,6 @@
     <monster name="Hydra" x="0" y="3" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="641" centery="860" centerz="7" radius="5">
-    <monster name="Wolf" x="3" y="-1" z="7" spawntime="0"/>
     <monster name="Tiger" x="-3" y="3" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="468" centery="861" centerz="7" radius="5">
@@ -2834,7 +2809,6 @@
   <spawn centerx="596" centery="929" centerz="7" radius="5">
     <monster name="Acolyte Of the Cult" x="2" y="-4" z="7" spawntime="60"/>
     <monster name="Adept of the Cult" x="4" y="2" z="7" spawntime="60"/>
-    <monster name="Enlightened of the Cult" x="3" y="4" z="7" spawntime="0"/>
   </spawn>
   <spawn centerx="582" centery="935" centerz="7" radius="5">
     <monster name="Adept of the Cult" x="-4" y="-2" z="7" spawntime="60"/>
@@ -4019,14 +3993,8 @@
     <monster name="Black Knight" x="-5" y="2" z="8" spawntime="60"/>
     <monster name="Black Knight" x="-2" y="5" z="8" spawntime="60"/>
   </spawn>
-  <spawn centerx="448" centery="775" centerz="8" radius="5">
-    <monster name="Black Knight" x="1" y="-2" z="8" spawntime="0"/>
-    <monster name="Black Knight" x="1" y="2" z="8" spawntime="0"/>
-  </spawn>
-  <spawn centerx="432" centery="776" centerz="8" radius="5">
-    <monster name="Black Knight" x="-2" y="-1" z="8" spawntime="0"/>
-    <monster name="Black Knight" x="5" y="-1" z="8" spawntime="0"/>
-  </spawn>
+  <spawn centerx="448" centery="775" centerz="8" radius="5"/>
+  <spawn centerx="432" centery="776" centerz="8" radius="5"/>
   <spawn centerx="410" centery="777" centerz="8" radius="5">
     <monster name="Black Knight" x="2" y="1" z="8" spawntime="60"/>
   </spawn>
