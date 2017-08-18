@@ -1,8 +1,8 @@
 -- [( Script created by Doidin for XTibia.com )] --
 function onThink(interval, lastExecution)
 MENSAGEM = {
-"Nosso servidor tem um sistema de troca de Itens VIP, para saber mais fale com o ADM! Itens estão a amostra no último andar do templo.",
-"Nosso servidor tem um sistema de troca de Itens VIP, para saber mais fale com o ADM!.",
+"Seja Bem-Vindo, ao FoxWAR, Com sistemas de PVP rápido e inovador.",
+"FoxWAR, jogue, divirta-se, aproveite!.",
 }
 doBroadcastMessage(MENSAGEM[math.random(1,#MENSAGEM)],22)
 return TRUE

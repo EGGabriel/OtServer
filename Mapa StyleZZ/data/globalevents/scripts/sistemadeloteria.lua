@@ -1,7 +1,7 @@
 -- Lottery System
 local config = {
     lottery_hour = "2 Horas", -- Tempo ate a proxima loteria (Esse tempo vai aparecer somente como broadcast message)
-    rewards_id = {2514, 2361, 2507, 2160, 2195, 2472, 2357, 2656, 7404}, -- ID dos Itens Sorteados na Loteria
+    rewards_id = {2514, 2160, 2195, 2472, 2656}, -- ID dos Itens Sorteados na Loteria
     crystal_counts = 150, -- Usado somente se a rewards_id for crystal coin (ID: 2160).
     website = "no" -- Only if you have php scripts and table `lottery` in your database!
     }

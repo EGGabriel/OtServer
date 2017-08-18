@@ -1,6 +1,6 @@
  local config = {
     pos = {
-        ["FullAURA"] = { x = 438, y = 557, z = 8 }, 
+        ["Aura Full"] = { x = 438, y = 557, z = 8 }, 
 
         
     }
