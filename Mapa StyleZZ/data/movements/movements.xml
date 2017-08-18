@@ -540,7 +540,6 @@
 	<movevent event="StepIn" itemid="4829" script="swimming/east.lua"/>
 	<movevent event="StepIn" itemid="4830" script="swimming/south.lua"/>
 	<movevent event="StepIn" itemid="4831" script="swimming/west.lua"/>
-
 	<movevent event="StepIn" itemid="7943" script="swimming/north.lua"/>
 	<movevent event="StepIn" itemid="7944" script="swimming/west.lua"/>
 	<movevent event="StepIn" itemid="7945" script="swimming/south.lua"/>

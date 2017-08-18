@@ -52,8 +52,8 @@
 	<talkaction log="yes" words="/msg" access="5" script="broadcastclass.lua"/>
 	<talkaction log="yes" words="/squelch" access="3" function="squelch"/>
 	<talkaction log="yes" words="/mc" access="3" script="multicheck.lua"/>
-               <talkaction log="yes" words="/on" access="3" script="online123.lua"/>
-               <talkaction log="yes" words="/bat" access="3" script="bat.lua"/>
+    <talkaction log="yes" words="/on" access="3" script="online123.lua"/>
+    <talkaction log="yes" words="/bat" access="3" script="bat.lua"/>
 	<talkaction log="yes" words="/notations" access="3" script="notations.lua"/>
 	<talkaction log="yes" words="/fake" access="3" script="fakemonster.lua"/>
 	<talkaction log="yes" words="/mute" access="3" script="mute.lua"/>
@@ -77,16 +77,16 @@
 	<talkaction log="yes" words="/goto" access="1" script="teleportto.lua"/>
 
 	<!-- Players -->   
-               <talkaction words="!kills" script="frags.lua"/>   
-               <talkaction words="!data" script="data.lua"/>   
-               <talkaction words="!sex" script="changender.lua"/>   
-               <talkaction words="crew" script="crew.lua"/>    
-               <talkaction words="!aol" script="aol.lua"/>
-               <talkaction words="!equipamentos" script="equipamentos.lua"/>
-               <talkaction words="!bp" script="bp.lua"/>
-               <talkaction words="!runas" script="runas.lua"/>
-               <talkaction words="!buypremium" script="buypremium.lua"/>
-               <talkaction words="!horas" script="horas.lua"/>
+    <talkaction words="!kills" script="frags.lua"/>   
+    <talkaction words="!data" script="data.lua"/>   
+    <talkaction words="!sex" script="changender.lua"/>   
+    <talkaction words="crew" script="crew.lua"/>    
+    <talkaction words="!aol" script="aol.lua"/>
+    <talkaction words="!equipamentos" script="equipamentos.lua"/>
+    <talkaction words="!bp" script="bp.lua"/>
+    <talkaction words="!runas" script="runas.lua"/>
+    <talkaction words="!buypremium" script="buypremium.lua"/>
+    <talkaction words="!horas" script="horas.lua"/>
 	<talkaction words="!buyhouse" function="buyHouse"/>
 	<talkaction words="!sellhouse" function="sellHouse"/>
 	<talkaction words="!createguild" function="createGuild"/>
@@ -98,8 +98,8 @@
 	<talkaction words="!online" script="online.lua"/>
 	<talkaction words="!bless" script="bless.lua"/>
 	<talkaction words="/uptime" script="uptime.lua"/>
-               <talkaction words="!afk" script="automessage.lua"/>
-               <talkaction words="/afk" script="automessage.lua"/>
+    <talkaction words="!afk" script="automessage.lua"/>
+    <talkaction words="/afk" script="automessage.lua"/>
 	<talkaction words="/q" script="money.lua"/>
 	<talkaction words="!serverinfo" script="serverinfo.lua"/>
 	<talkaction words="!spells" script="spellsinfo.lua"/>
@@ -107,5 +107,5 @@
 	<talkaction words="!help" script="help.lua"/>
 	<talkaction words="!comandos" script="comandos.lua"/>
 	<talkaction words="!quit" script="quit.lua"/>
-        <talkaction words="!jumpsz1" script="jump.lua"/>
+    <talkaction words="!jumpsz1" script="jump.lua"/>
 </talkactions>

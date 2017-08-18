@@ -16,7 +16,7 @@ function onSay(cid, words, param)
 pos = getThingPos(cid) 
 doSendAnimatedText(pos, FRASES[math.random(#FRASES)], 215) 
 doSendMagicEffect(pos, 2) 
-doPlayerSendCancel(cid, "Mengasem Automaticas") 
+doPlayerSendCancel(cid, "Você Entrou no Sistema AFK!") 
 addEvent(doSendAutoMessage, TEMPO*1000, cid, pos) 
 return TRUE 
 end
