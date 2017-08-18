@@ -43,22 +43,6 @@ function onUse(cid, item, frompos, item2, topos)
                     else
                               return FALSE
                     end
-          elseif item.uid == 9900 and item.itemid == 1946 then
-                    if doRemoveItem(getFirstItem.uid, 1) and doRemoveItem(getSecondItem.uid, 1) and doRemoveItem(getThreeItem.uid, 1) and doRemoveItem(getFourItem.uid, 1) and doRemoveItem(getFiveItem.uid, 1) and doRemoveItem(getSixItem.uid, 1) and doRemoveItem(getSevenItem.uid, 1) then
-                              doSendMagicEffect(firstItemPos, 2)
-                              doSendMagicEffect(secondItemPos, 2)
-                              doSendMagicEffect(threeItemPos, 2)
-                              doSendMagicEffect(fourItemPos, 2)
-                              doSendMagicEffect(fiveItemPos, 2)
-                              doSendMagicEffect(sixItemPos, 2)
-                              doSendMagicEffect(sevenItemPos, 2)
-                              doSendMagicEffect(rewardItemPos, 14)
-                              doCreateItem(cfg.rewardItemId, 1, rewardItemPos)
-                              doTransformItem(item.uid, item.itemid-1)
-                              doPlayerSendTextMessage(cid, 18, 'Parabéns! você forjou '.. getItemNameById(cfg.firstItemId) ..' com '.. getItemNameById(cfg.secondItemId) ..' e '.. getItemNameById(cfg.threeItemId) ..' e '.. getItemNameById(cfg.fourItemId) ..' e '.. getItemNameById(cfg.fiveItemId) ..' e '.. getItemNameById(cfg.sixItemId) ..' e '.. getItemNameById(cfg.sevenItemId) ..' e agora tem '.. getItemNameById(cfg.rewardItemId) ..'.')
-                    else
-                              return FALSE
-                    end
           else
                     doPlayerSendTextMessage(cid, 18, 'Você não colocou os itens necessários para Forjar o Helmet .')
           end
