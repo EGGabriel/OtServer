@@ -1,6 +1,6 @@
  local config = {
     pos = {
-        ["	"] = { x = 439, y = 546, z = 7 }, 
+        ["Treiners!"] = { x = 439, y = 546, z = 7 }, 
 
         
     }
