@@ -48,7 +48,7 @@
 
 	-- Connection config
 	worldId = 0
-	ip = "127.0.0.1"
+	ip = "192.95.3.243"
 	port = 7171
 	loginTries = 10
 	retryTimeout = 5 * 1000
