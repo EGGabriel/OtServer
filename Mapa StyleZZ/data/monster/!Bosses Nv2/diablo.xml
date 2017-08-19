@@ -19,7 +19,7 @@
   </flags>
   <attacks>
     <attack name="melee" interval="1000" skill="200" attack="200"/>
-    <attack name="death rain" interval="500"/>
+   
     <attack name="diablo change" interval="1000"/>
     <attack name="orshabaal_deathstar" interval="10000" min="-500" max="-1500"/>
 		<attack name="firefield" interval="1000" chance="30" radius="5" target="0">

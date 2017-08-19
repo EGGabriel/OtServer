@@ -2,8 +2,8 @@
 <monsters>
 
 	<!--By Leonardo-->
-               <monster name="barrier" file="!By Leo/barrier.xml"/>
-               <monster name="Brawler" file="!By Leo/brawler.xml"/>
+    <monster name="barrier" file="!By Leo/barrier.xml"/>
+    <monster name="Brawler" file="!By Leo/brawler.xml"/>
 	<monster name="Saco de Pancada" file="!By Leo/Saco de Pancada.xml"/>
 	<monster name="trainer" file="!By Leo/Saco de Pancada.xml"/>
 	<monster name="Training Monk" file="!By Leo/training monk.xml"/>

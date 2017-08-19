@@ -10,7 +10,6 @@
               <action uniqueid="1230" script="By Leonardo/500k.lua" />
               <action uniqueid="3446" script="dinheiro.lua" />
               <action uniqueid="3447" script="dinheiro1.lua" />
-              <action uniqueid="3446" script="dinheiro.lua" /> 
               <action uniqueid="9900" script="fusionlever.lua" />
               <action uniqueid="45000" script="example.lua" />
               <action uniqueid="10001" script="By Leonardo/10001.lua" />
@@ -51,7 +50,6 @@
               <action uniqueid="4891" script="By Leonardo/demon helmet.lua" />
               <action uniqueid="1006" script="By Leonardo/dh alavanca.lua" />
                <action uniqueid="8484" script="By Leonardo/boh.lua" />
-               <action uniqueid="1006" script="By Leonardo/dh alavanca.lua" />
               <action uniqueid="9889" script="By Leonardo/dh alavanca1.lua" />
               <action uniqueid="9888" script="By Leonardo/dh alavanca2.lua" />
               <action uniqueid="9887" script="By Leonardo/dh alavanca3.lua" />
