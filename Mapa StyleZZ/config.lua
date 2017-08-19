@@ -27,7 +27,7 @@
 	-- NOTE: loginProtectionPeriod is the famous Tibia anti-magebomb system.
 	worldType = "pvp"
 	hotkeyAimbotEnabled = "yes"
-	protectionLevel = 1
+	protectionLevel = 100
 	pvpTileIgnoreLevelAndVocationProtection = "yes"
 	killsToRedSkull = 70
 	pzLocked = 10000
@@ -92,16 +92,16 @@
 	guildNameMaxLength = 25
 
 	-- Highscores
-	highscoreDisplayPlayers = 35
+	highscoreDisplayPlayers = 100
 	updateHighscoresAfterMinutes = 2
 
 	-- Houses
 	buyableAndSellableHouses = "yes"
-	housesPerAccount = 0
-	levelToBuyHouse = 100
+	housesPerAccount = 3
+	levelToBuyHouse = 200
 	houseRentAsPrice = "no"
 	housePriceAsRent = "no"
-	housePriceEachSQM = 20000
+	housePriceEachSQM = 100000
 	houseRentPeriod = "never"
 
 	-- Item usage

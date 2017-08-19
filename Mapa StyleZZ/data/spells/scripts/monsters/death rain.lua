@@ -1,21 +1,14 @@
-local area = createCombatArea(AREA_CIRCLE2X2)
+local area = createCombatArea(AREA_SQUARE1X1)
 function onCastSpell(cid, var) 
 local target = getCreatureTarget(cid)
-for x = 1, 4 do
-    addEvent(furyAttackTarget,250*x+500,cid,target,{x = getCreaturePosition(target).x + math.random(-1,1), y = getCreaturePosition(target).y + math.random(-1,1), z = getCreaturePosition(target).z})
+doSendDistanceShoot(getCreaturePosition(cid),{x = getCreaturePosition(cid).x - math.random(4,6), y = getCreaturePosition(cid).y - 5, z = getCreaturePosition(cid).z},31)
+for x = 1, 5 do
+    addEvent(furyAttackTarget,400*x+500,cid,target,{x = getCreaturePosition(target).x + math.random(-1,1), y = getCreaturePosition(target).y + math.random(-1,1), z = getCreaturePosition(target).z})
 end
 end
 function furyAttackTarget(cid,target,pos)
 if isCreature(cid) == TRUE and isCreature(target) == TRUE then
-   doSendDistanceShoot({x = getCreaturePosition(target).x - math.random(4,6), y = getCreaturePosition(target).y - 5, z = getCreaturePosition(target).z},pos,3)
-   doAreaCombatHealth(cid,COMBAT_FIREDAMAGE,pos,area,-1,-200,36)
-   doAreaCombatHealth(cid,COMBAT_FIREDAMAGE,pos,area,-1,-500,36)
+   doSendDistanceShoot({x = getCreaturePosition(target).x - math.random(4,6), y = getCreaturePosition(target).y - 5, z = getCreaturePosition(target).z},pos,49)
 end
-end
-
-local chargeCount = getPlayerStorageValue(cid, 111310)
-if chargeCount < 1 then
-doPlayerSendCancel(cid, "You do not have enough charges to cast this spell.")
 return TRUE
 end
-setPlayerStorageValue(cid, 111310, chargeCount -1)
