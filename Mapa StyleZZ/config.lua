@@ -76,7 +76,7 @@
 	sqlPass = ""
 	sqlDatabase = "FoxWorld OT Server"
 	sqlFile = "forgottenserver.s3db"
-	sqlKeepAlive = 60
+	sqlKeepAlive = 0
 	mysqlReadTimeout = 3
 	optimizeDatabaseAtStartup = "yes"
 	passwordType = "plain"

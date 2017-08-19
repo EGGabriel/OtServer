@@ -660,7 +660,6 @@
 	<instant name="ultimate explosion" words="ultimate explosion" direction="0" enabled="0" script="monsters/ultimate explosion.lua"></instant>
 	<instant name="rage of the skies" words="rage of the skies" direction="0" enabled="0" script="attack/rage of the skies.lua"></instant>
 	<instant name="eletric storm" words="exevo mas god power" direction="0" enabled="0" script="monsters/eletric storm.lua"></instant>
-	<instant name="bola de morte" words="bola de morte" direction="0" enabled="0" script="attack/bola de morte"></instant>
 	
 	<!-- House Spells -->
 	<instant name="House Guest List" words="aleta sio" selftarget="1" function="editHouseGuest"/>

@@ -10,6 +10,4 @@
         <event type="kill" name="boss" script="boss.lua" />
         <event type="kill" name="owned" script="owned.lua"/>
         <event type="death" name="Pythius the rottenTeleport" script="Pythius the rotten_teleport.lua"/>
-
-        <event type="death" name="storageBoss" script="storageBoss.lua"/>
 </creaturescripts>

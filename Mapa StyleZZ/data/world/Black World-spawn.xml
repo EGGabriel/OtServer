@@ -5951,7 +5951,6 @@
   </spawn>
   <spawn centerx="494" centery="1069" centerz="10" radius="5">
     <monster name="Ice Golem" x="-3" y="-5" z="10" spawntime="60"/>
-    <monster name="Ice Titan" x="1" y="-4" z="10" spawntime="60"/>
     <monster name="Frozen Dragon" x="4" y="-3" z="10" spawntime="60"/>
     <monster name="Frost Dragon" x="1" y="-1" z="10" spawntime="60"/>
   </spawn>
@@ -6767,7 +6766,6 @@
     <monster name="Behemoth" x="-2" y="3" z="12" spawntime="60"/>
   </spawn>
   <spawn centerx="695" centery="718" centerz="12" radius="5">
-    <monster name="Arkhothep" x="-1" y="1" z="12" spawntime="60"/>
   </spawn>
   <spawn centerx="414" centery="719" centerz="12" radius="5">
     <monster name="Behemoth" x="-2" y="-3" z="12" spawntime="60"/>
