@@ -75,7 +75,6 @@
               <action uniqueid="4326" script="By Leonardo/hq crown.lua"/>
 
               <action uniqueid="9595" script="By Leonardo/miniarena.lua" />
-              <action uniqueid="9886" script="grana.lua" />
               <action uniqueid="6565" script="By Leonardo/miniarena2.lua" />
               <action uniqueid="2323" script="By Leonardo/magician hat.lua"/>
               <action uniqueid="3330" script="By Leonardo/plague.lua" />

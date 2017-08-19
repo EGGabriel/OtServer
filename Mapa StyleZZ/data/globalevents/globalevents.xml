@@ -9,6 +9,5 @@
         <globalevent name="tpfalante" interval="3" script="tpfalante2.lua"/>
         <globalevent name="tpfalante" interval="3" script="tpfalante3.lua"/>
         <globalevent name="tpfalante" interval="3" script="tpfalante4.lua"/>
-		 <globalevent name="Loteria" interval="20" script="sistemadeloteria.lua"/>
         <globalevent name="Teleport Automatico" time="13:50" event="script" value="teleportautomatico.lua"/>
 </globalevents>
