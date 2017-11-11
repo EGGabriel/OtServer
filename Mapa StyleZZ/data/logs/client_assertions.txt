@@ -4058,3 +4058,90 @@ MainWindow.cpp 137: exception occurred (Surface = 1), reason:
 NWin32Exception.cpp 50: win32 exception occurred, reason:
 access violation (read attempt at FFFFFFE9)
 Comment: 
+----- 10/11/2017 21:48:52 - Royal Stanley (177.33.78.191) -----
+Debug Assertion 8.40 Communication.cpp 2054
+Fri Nov 10 19:48:33 2017
+Windows Version: 6.1 build 7601 on 2 with Service Pack 1
+Graphic Engine: OpenGL (1)
+Last Packet Types: 109 101 109 140 140 107 132 131 140 180
+Last Packet: 109 006 001 181 001 007 002 006 001 180 001 007 133 006 001 177
+Player Position: [262,434,7]
+Player Name: Royal Stanley (StyleZZ Server)
+Player Action: 053 052 046 057 052 046 049 051 056 046 049 048 055 058 055 049 055 049
+Player.cpp 360: exception occurred, reason:
+Network.cpp 990: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1319: exception occurred (Type = 109) (MainWindow = 35067488), reason:
+Communication.cpp 2070: exception occurred, reason:
+Communication.cpp 2054: MoveCreature has been received for a coordinate where there is no bank as first object [bug0000484], reason:
+ sx: 8 sy: 9 sz: 0
+ Position: 2
+ zx: 8 zy: 8 zz: 0
+ dx: 0 dy: -1 dz: 0
+ abs_sx: 262 abs_sy: 437 abs_sz: 7
+ abs_zx: 262 abs_zy: 436 abs_zz: 7
+ Start Cylinder (1):  (410,0) (2889,5) (99,268440591)
+ Start Cylinder (2):  (410,0) (2889,5) (99,268440591)(-)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (2889,5) (2889,5)
+ Destination Cylinder (2):  (2889,5) (2889,5)(-)(-)(-)(-)(-)(-)(-)(-)
+ ID: 268440591 Name: Cilaa
+ RealX: 262 RealY: 436 RealZ: 7
+ DeltaX: 0 DeltaY: 0
+Comment: 
+----- 10/11/2017 21:56:53 - Cilaa (191.181.103.80) -----
+Debug Assertion 8.40 Communication.cpp 2054
+Fri Nov 10 19:56:31 2017
+Windows Version: 6.1 build 7600 on 2
+Graphic Engine: DirectX9 (2)
+Last Packet Types: 109 131 140 131 131 180 131 180 131 180
+Last Packet: 131 018 001 179 001 007 003 109 018 001 179 001 007 002 017 001
+Player Position: [275,436,7]
+Player Name: Cilaa (StyleZZ Server)
+Player Action: 053 052 046 057 052 046 049 051 056 046 049 048 055 058 055 049 055 049
+Player.cpp 360: exception occurred, reason:
+Network.cpp 990: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1319: exception occurred (Type = 109) (MainWindow = 29392752), reason:
+Communication.cpp 2070: exception occurred, reason:
+Communication.cpp 2054: MoveCreature has been received for a coordinate where there is no bank as first object [bug0000484], reason:
+ sx: 7 sy: 5 sz: 0
+ Position: 2
+ zx: 6 zy: 5 zz: 0
+ dx: -1 dy: 0 dz: 0
+ abs_sx: 274 abs_sy: 435 abs_sz: 7
+ abs_zx: 273 abs_zy: 435 abs_zz: 7
+ Start Cylinder (1):  (410,0) (2889,5) (99,268440618)
+ Start Cylinder (2):  (410,0) (2889,5) (99,268440618)(-)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (2889,5) (2889,5)
+ Destination Cylinder (2):  (2889,5) (2889,5)(-)(-)(-)(-)(-)(-)(-)(-)
+ ID: 268440618 Name: Royal Stanley
+ RealX: 273 RealY: 435 RealZ: 7
+ DeltaX: 0 DeltaY: 0
+Comment: 
+----- 10/11/2017 23:31:07 - Royal Stanley (177.33.78.191) -----
+Debug Assertion 8.40 Communication.cpp 2054
+Fri Nov 10 21:30:47 2017
+Windows Version: 6.1 build 7601 on 2 with Service Pack 1
+Graphic Engine: OpenGL (1)
+Last Packet Types: 109 108 140 106 160 132 131 131 131 131
+Last Packet: 131 162 001 142 002 007 021 131 163 001 142 002 007 021 131 162
+Player Position: [425,652,7]
+Player Name: Royal Stanley (StyleZZ Server)
+Player Action: 053 052 046 057 052 046 049 051 056 046 049 048 055 058 055 049 055 049
+Player.cpp 360: exception occurred, reason:
+Network.cpp 990: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1319: exception occurred (Type = 109) (MainWindow = 35460704), reason:
+Communication.cpp 2070: exception occurred, reason:
+Communication.cpp 2054: MoveCreature has been received for a coordinate where there is no bank as first object [bug0000484], reason:
+ sx: 8 sy: 6 sz: 0
+ Position: 2
+ zx: 7 zy: 5 zz: 0
+ dx: -1 dy: -1 dz: 0
+ abs_sx: 426 abs_sy: 653 abs_sz: 7
+ abs_zx: 425 abs_zy: 652 abs_zz: 7
+ Start Cylinder (1):  (4523,0) (2889,5) (6218,0) (4218,0) (4240,0) (4240,0) (4212,0) (111,0) (2123,0) (99,268441902)
+ Start Cylinder (2):  (4523,0) (2889,5) (99,268441902) (2123,0) (111,0) (4212,0) (4240,0) (4240,0) (4218,0) (6218,0)
+ Destination Cylinder (1):  (2889,5) (2889,5) (4218,0) (4240,0) (4212,0) (4212,0) (2123,0)
+ Destination Cylinder (2):  (2889,5) (2889,5) (2123,0) (4212,0) (4212,0) (4240,0) (4218,0)(-)(-)(-)
+ ID: 268441902 Name: Royal Stanley
+ RealX: 425 RealY: 652 RealZ: 7
+ DeltaX: 0 DeltaY: 31
+Comment: 

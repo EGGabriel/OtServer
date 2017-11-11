@@ -1,5 +1,5 @@
 local combatpremium = createCombatObject()
-setCombatParam(combatpremium, COMBAT_PARAM_TYPE, COMBAT_FIREDAMAGE)
+setCombatParam(combatpremium, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
 setCombatParam(combatpremium, COMBAT_PARAM_EFFECT, CONST_ME_FIREATTACK)
 setCombatFormula(combatpremium, COMBAT_FORMULA_LEVELMAGIC, -3.4, -200, -3.5, -220)
 

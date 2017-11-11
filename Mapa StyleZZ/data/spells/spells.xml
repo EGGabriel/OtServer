@@ -119,10 +119,7 @@
 		<vocation name="Sorcerer" />
 		<vocation name="Master Sorcerer" />
 	</instant>
-	<instant name="Exevo Gran Mas Flam" words="exevo gran mas flam" lvl="60" mana="1390" selftarget="1" prem="0" exhaustion="1400" needlearn="0" script="vip/exevo gran mas flam.lua">
-                <vocation name="Master Sorcerer" />
-	</instant>
-        <instant name="Exevo Gran Mas Vis" words="exevo gran mas vis" lvl="60" mana="1390" selftarget="1" prem="0" exhaustion="1600" needlearn="0" script="vip/exevo gran mas vis.lua">
+	<instant name="Exevo Gran Mas Vis" words="exevo gran mas vis" lvl="60" mana="1390" selftarget="1" prem="0" exhaustion="1400" needlearn="0" script="vip/exevo gran mas flam.lua">
                 <vocation name="Master Sorcerer" />
 	</instant>
         <instant name="Gema de Sorc" words="ASDFYH9238798274892asdax" lvl="200" prem="0" selftarget="0" exhaustion="900" needlearn="0" script="vip/Gema Sorc.lua">
