@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <houses>
-  <house name="Solaris House 1" houseid="2" entryx="433" entryy="561" entryz="7" rent="0" townid="0" size="26"/>
+  <house name="Solaris House 1" houseid="2" entryx="433" entryy="561" entryz="7" rent="0" townid="0" size="30"/>
   <house name="solaris house 3" houseid="3" entryx="458" entryy="550" entryz="7" rent="0" townid="0" size="18"/>
   <house name="solaris house 4" houseid="4" entryx="464" entryy="550" entryz="7" rent="0" townid="0" size="19"/>
   <house name="solaris house 5" houseid="5" entryx="471" entryy="550" entryz="7" rent="0" townid="0" size="13"/>

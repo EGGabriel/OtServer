@@ -6765,8 +6765,7 @@
     <monster name="Cyclops" x="-4" y="-3" z="12" spawntime="60"/>
     <monster name="Behemoth" x="-2" y="3" z="12" spawntime="60"/>
   </spawn>
-  <spawn centerx="695" centery="718" centerz="12" radius="5">
-  </spawn>
+  <spawn centerx="695" centery="718" centerz="12" radius="5"/>
   <spawn centerx="414" centery="719" centerz="12" radius="5">
     <monster name="Behemoth" x="-2" y="-3" z="12" spawntime="60"/>
     <monster name="Cyclops" x="-3" y="4" z="12" spawntime="72"/>
