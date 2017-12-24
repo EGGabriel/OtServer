@@ -4145,3 +4145,39 @@ Communication.cpp 2054: MoveCreature has been received for a coordinate where th
  RealX: 425 RealY: 652 RealZ: 7
  DeltaX: 0 DeltaY: 31
 Comment: 
+----- 23/12/2017 15:10:18 - [ADM] EGGabriel (127.0.0.1) -----
+Debug Assertion 8.40 Communication.cpp 1466
+Sat Dec 23 15:07:45 2017
+Windows Version: 6.2 build 9200 on 2
+Graphic Engine: DirectX9 (2)
+Last Packet Types: 100 011 010 100 020 000 000 000 000 000
+Last Packet: 010 104 019 000 016 050 000 001 011 170 170 170 170 213 213 213
+Player Name: [ADM] EGGabriel (StyleZZ Server)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 049
+Player.cpp 360: exception occurred, reason:
+Network.cpp 990: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1319: exception occurred (Type = 100) (MainWindow = 80420160), reason:
+Communication.cpp 1622: exception occurred (PlayerX = 435) (PlayerY = 554), reason:
+Communication.cpp 1600: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1579: exception occurred (Type = 97) (OldType = 2888), reason:
+Communication.cpp 1532: exception occurred (Type = 97) (CreatureID = 1073746791), reason:
+Communication.cpp 1466: outfit has not all four directions (Creature->OutfitType = 1) (GetOutfitPatternWidth(Creature->OutfitType) = 1)
+
+----- 23/12/2017 15:24:18 - [ADM] EGGabriel (127.0.0.1) -----
+Debug Assertion 8.40 Container.h 226
+Sat Dec 23 15:11:19 2017
+Windows Version: 6.2 build 9200 on 2
+Graphic Engine: DirectX9 (2)
+Last Packet Types: 106 180 180 180 180 030 132 030 132 030
+Last Packet: 180 018 008 000 047 109 032 115 104 101 101 112 106 180 001 043
+Player Position: [435,554,7]
+Player Name: [ADM] EGGabriel (StyleZZ Server)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 049
+Player.cpp 360: exception occurred, reason:
+Network.cpp 990: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1319: exception occurred (Type = 106) (MainWindow = 81075280), reason:
+Communication.cpp 1722: exception occurred (rx = 9) (ry = 7), reason:
+Communication.cpp 1532: exception occurred (Type = 97) (CreatureID = 1073746792), reason:
+Objects.cpp 604: exception occurred (Number = 2383), reason:
+Container.h 226: index out of range (original i: 2383, i: 2382, min: 1, d: 326)
+Comment: 

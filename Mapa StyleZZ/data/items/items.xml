@@ -3178,9 +3178,8 @@
 		<attribute key="weight" value="950"/>
 		<attribute key="containerSize" value="5"/>
 	</item>
-	<item id="1990" article="a" name="present">
-		<attribute key="weight" value="600"/>
-		<attribute key="containerSize" value="5"/>
+	<item id="1990" article="a" name="dice">
+		<attribute key="weight" value="200"/>
 	</item>
 	<item id="1991" article="a" name="green bag">
 		<attribute key="weight" value="800"/>
@@ -17567,7 +17566,7 @@
 	</item>
 	<item id="6497" article="a" name="present bag">
 		<attribute key="description" value="It contains presents which were stolen from Santa. Bring them back to Ruprecht on Vega."/>
-		<attribute key="weight" value="8000"/>
+		<attribute key="weight" value="200"/>
 	</item>
 	<item id="6499" article="a" name="diploma">
 		<attribute key="weight" value="1000"/>
