@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
 <actions>
+	<!-- Inicio dos feitos por EGGabriel -->
+              <action itemid="1990" script="By EG/aleatorio.lua" />
+			  
 	<!-- Inicio dos feitos por Leonardo -->
 
               <action itemid="5792" script="By Leonardo/dice.lua" />
-			  <action itemid="1990" script="By EG/aleatorio.lua" />
-
               <action uniqueid="1571" script="By Leonardo/alquimia.lua" />
               <action uniqueid="8268" script="By Leonardo/ma - sun berserker.lua" />
 
