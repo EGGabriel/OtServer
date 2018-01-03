@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Keltera" script="data/npc/scripts/Alissow.lua" walkinterval="5000" floorchange="0">
+    <health now="100" max="100"/>
+    <look type="289" head="114" body="114" legs="91" feet="91" addons="3"/>
+    <parameters>
+		<parameter key="message_greet" value="Sea bienvenido |PLAYERNAME|! Lo puedo ayudar? Diga {ajuda}. Tambien vendo AOL, diga {trade}." />
+        <parameter key="module_keywords" value="1" />
+        <parameter key="keywords" value="hi;ajuda;mapa;monstros;magias;bye;promotion;premium;highscores" />
+        <parameter key="keyword_reply1" value="Sea beinvenido |PLAYERNAME|! Lo puedo ayudar en varias cosas. Diga {ajuda}" />
+        <parameter key="keyword_reply2" value="¿Que quiere saber sobre {premium}, {promotion}, {mapa}, {monstros}, {magias}, {rep system}, {pagina} ou {highscores}?" />
+        <parameter key="keyword_reply3" value="Muy bien... La ciudad principal mas bien donde estamos se llama Keltera City aqui podras encontrar tp's para level u otras cosas, podras vender tu loot, crear wars y divertirte, recuerda Keltera Server v4.2 es 100% creado, disfrutalo!!." />
+        <parameter key="keyword_reply4" value="Existen mas de 100 tipos de monstruos a lo largo de todo el mapa, ¿Que solo 100? si recuerda que Keltera Server v4.2 esta en creacion y crearemos muchas mas zonas de level como mostruos editados y zonas vip." />
+        <parameter key="keyword_reply5" value="En el server existen muchas magias, son magias originales de tibia 8.70, despues crearemos magias editadas y asi te diviertas mas." />
+        <parameter key="keyword_reply6" value="Xao Ctm!." />
+        <parameter key="keyword_reply7" value="Para adquirir la promotion solo baya hasta arriba del templo con el Rey." />
+        <parameter key="keyword_reply8" value="Para comprar premium usted digala por comando o simplemente gratis!." />
+        <parameter key="keyword_reply9" value="La pagina es www.keltera.mex.tl podra encontrar las noticias mas recientes sobre Keltera Server v4.2 y podra ver los item para donar via recarga." />
+        <parameter key="keyword_reply10" value="Para saber los highscores diga !rank o para saber el top de ml diga !rank magic etc." />
+
+        <parameter key="module_shop" value="1"/>
+        <parameter key="shop_buyable" value="aol,2173,10000"/> 
+        <parameter key="shop_sellable" value="aol,2173,5000"/> 
+    </parameters>
+</npc>

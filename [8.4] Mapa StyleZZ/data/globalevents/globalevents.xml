@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<globalevents>
+        <globalevent name="clean" interval="3600" script="clean.lua"/>
+        <globalevent name="propagandabranca" interval="1000" script="propagandabranca.lua"/>
+        <globalevent name="tower" interval="60" script="tower.lua"/>
+        <globalevent name="propagandaverde" interval="1000" script="propagandaverde.lua"/>
+        <globalevent name="castle" interval="5" script="castle.lua"/>
+        <globalevent name="tpfalante" interval="3" script="tpfalante.lua"/>
+        <globalevent name="tpfalante" interval="3" script="tpfalante2.lua"/>
+        <globalevent name="tpfalante" interval="3" script="tpfalante3.lua"/>
+        <globalevent name="tpfalante" interval="3" script="tpfalante4.lua"/>
+</globalevents>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<globalevents>
+	<globalevent name="clean" interval="5000" event="script" value="clean.lua"/>
+              <globalevent name="message" interval="2000" script="message.lua"/>
+              <globalevent name="mensaje" interval="1" script="tlpmenssage.lua"/>
+	<globalevent name="serverstart" type="start" event="script" value="start.lua"/>
+	<globalevent name="playersrecord" type="record" event="script" value="record.lua"/>
+
+	<!-- <globalevent name="timer_example" time="21:35" event="script" value="my_script.lua"/> -->
+</globalevents>

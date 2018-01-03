@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<houses>
+  <house name="Solaris House 1" houseid="2" entryx="433" entryy="561" entryz="7" rent="0" townid="0" size="26"/>
+  <house name="solaris house 3" houseid="3" entryx="458" entryy="550" entryz="7" rent="0" townid="0" size="18"/>
+  <house name="solaris house 4" houseid="4" entryx="464" entryy="550" entryz="7" rent="0" townid="0" size="19"/>
+  <house name="solaris house 5" houseid="5" entryx="471" entryy="550" entryz="7" rent="0" townid="0" size="13"/>
+  <house name="solaris house 6" houseid="6" entryx="458" entryy="558" entryz="7" rent="0" townid="0" size="10"/>
+  <house name="solaris house 7" houseid="7" entryx="465" entryy="554" entryz="7" rent="0" townid="0" size="10"/>
+  <house name="solaris house 8" houseid="8" entryx="471" entryy="554" entryz="7" rent="0" townid="0" size="13"/>
+  <house name="Solaris house 9" houseid="9" entryx="477" entryy="558" entryz="7" rent="0" townid="0" size="14"/>
+  <house name="Solaris house  10" houseid="10" entryx="490" entryy="558" entryz="7" rent="0" townid="0" size="62"/>
+  <house name="Solaris house  11" houseid="11" entryx="450" entryy="556" entryz="6" rent="0" townid="0" size="54"/>
+  <house name="Solaris house 12" houseid="12" entryx="457" entryy="550" entryz="6" rent="0" townid="0" size="18"/>
+  <house name="Solaris house  13" houseid="13" entryx="464" entryy="550" entryz="6" rent="0" townid="0" size="19"/>
+  <house name="Solaris house  14" houseid="14" entryx="471" entryy="550" entryz="6" rent="0" townid="0" size="13"/>
+  <house name="Solaris house  15" houseid="15" entryx="457" entryy="554" entryz="6" rent="0" townid="0" size="10"/>
+  <house name="Solaris house  16" houseid="16" entryx="466" entryy="554" entryz="6" rent="0" townid="0" size="10"/>
+  <house name="Solaris house  17" houseid="17" entryx="470" entryy="554" entryz="6" rent="0" townid="0" size="13"/>
+  <house name="Solaris house 18" houseid="18" entryx="490" entryy="558" entryz="6" rent="0" townid="0" size="62"/>
+  <house name="Solaris House 20" houseid="20" entryx="426" entryy="527" entryz="7" rent="0" townid="0" size="33"/>
+  <house name="Solaris House  21" houseid="21" entryx="426" entryy="521" entryz="7" rent="0" townid="0" size="33"/>
+  <house name="Solaris House 22" houseid="22" entryx="426" entryy="515" entryz="7" rent="0" townid="0" size="33"/>
+  <house name="Solaris House 23" houseid="23" entryx="426" entryy="510" entryz="7" rent="0" townid="0" size="33"/>
+  <house name="Solaris House 24" houseid="24" entryx="423" entryy="512" entryz="6" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 25" houseid="25" entryx="423" entryy="517" entryz="6" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 26" houseid="26" entryx="423" entryy="523" entryz="6" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 27" houseid="27" entryx="421" entryy="525" entryz="6" rent="0" townid="0" size="36"/>
+  <house name="Solaris House 28" houseid="28" entryx="425" entryy="514" entryz="5" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 29" houseid="29" entryx="425" entryy="518" entryz="5" rent="0" townid="0" size="13"/>
+  <house name="Solaris House 30" houseid="30" entryx="425" entryy="523" entryz="5" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 31" houseid="31" entryx="427" entryy="525" entryz="5" rent="0" townid="0" size="38"/>
+  <house name="Solaris House 32" houseid="32" entryx="411" entryy="521" entryz="7" rent="0" townid="0" size="26"/>
+  <house name="Solaris House 33" houseid="33" entryx="408" entryy="522" entryz="7" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 34" houseid="34" entryx="411" entryy="515" entryz="7" rent="0" townid="0" size="28"/>
+  <house name="Solaris House 35" houseid="35" entryx="408" entryy="516" entryz="7" rent="0" townid="0" size="23"/>
+  <house name="Solaris House 36" houseid="36" entryx="411" entryy="510" entryz="7" rent="0" townid="0" size="28"/>
+  <house name="Solaris House 37" houseid="37" entryx="408" entryy="510" entryz="7" rent="0" townid="0" size="28"/>
+  <house name="Solaris House 38" houseid="38" entryx="406" entryy="510" entryz="6" rent="0" townid="0" size="13"/>
+  <house name="Solaris House 39" houseid="39" entryx="406" entryy="515" entryz="6" rent="0" townid="0" size="13"/>
+  <house name="Solaris House 40" houseid="40" entryx="406" entryy="519" entryz="6" rent="0" townid="0" size="13"/>
+  <house name="Solaris House 41" houseid="41" entryx="410" entryy="520" entryz="6" rent="0" townid="0" size="16"/>
+  <house name="Solaris House 42" houseid="42" entryx="413" entryy="519" entryz="6" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 43" houseid="43" entryx="413" entryy="515" entryz="6" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 44" houseid="44" entryx="413" entryy="509" entryz="6" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 45" houseid="45" entryx="407" entryy="516" entryz="5" rent="0" townid="0" size="22"/>
+  <house name="Solaris House 46" houseid="46" entryx="410" entryy="512" entryz="5" rent="0" townid="0" size="71"/>
+  <house name="Solaris House 47" houseid="47" entryx="413" entryy="516" entryz="5" rent="0" townid="0" size="22"/>
+  <house name="Solaris House 48" houseid="48" entryx="410" entryy="519" entryz="5" rent="0" townid="0" size="56"/>
+  <house name="Solaris House 49" houseid="49" entryx="423" entryy="562" entryz="7" rent="0" townid="0" size="25"/>
+  <house name="Solaris House 50" houseid="50" entryx="402" entryy="553" entryz="7" rent="0" townid="0" size="23"/>
+  <house name="Solaris House 51" houseid="51" entryx="404" entryy="565" entryz="7" rent="0" townid="0" size="13"/>
+  <house name="Solaris House 52" houseid="52" entryx="408" entryy="572" entryz="7" rent="0" townid="0" size="27"/>
+  <house name="Solaris House 54" houseid="54" entryx="403" entryy="576" entryz="7" rent="0" townid="0" size="30"/>
+  <house name="Solaris House 55" houseid="55" entryx="412" entryy="580" entryz="7" rent="0" townid="0" size="14"/>
+  <house name="Solaris House 56" houseid="56" entryx="409" entryy="586" entryz="7" rent="0" townid="0" size="14"/>
+  <house name="Solaris House 57" houseid="57" entryx="408" entryy="590" entryz="7" rent="0" townid="0" size="22"/>
+  <house name="Solaris House 58" houseid="58" entryx="415" entryy="588" entryz="7" rent="0" townid="0" size="19"/>
+  <house name="Solaris House 59" houseid="59" entryx="420" entryy="586" entryz="7" rent="0" townid="0" size="41"/>
+  <house name="Solaris House 60" houseid="60" entryx="441" entryy="585" entryz="7" rent="0" townid="0" size="56"/>
+  <house name="Solaris House 61" houseid="61" entryx="436" entryy="596" entryz="7" rent="0" townid="0" size="14"/>
+  <house name="Solaris House 62" houseid="62" entryx="440" entryy="596" entryz="7" rent="0" townid="0" size="14"/>
+  <house name="Solaris House 63" houseid="63" entryx="445" entryy="596" entryz="7" rent="0" townid="0" size="10"/>
+  <house name="Solaris House 64" houseid="64" entryx="436" entryy="600" entryz="7" rent="0" townid="0" size="13"/>
+  <house name="Solaris House 65" houseid="65" entryx="441" entryy="600" entryz="7" rent="0" townid="0" size="7"/>
+  <house name="Solaris House 66" houseid="66" entryx="445" entryy="600" entryz="7" rent="0" townid="0" size="7"/>
+  <house name="Solaris House 67" houseid="67" entryx="440" entryy="597" entryz="6" rent="0" townid="0" size="13"/>
+  <house name="Solaris House 68" houseid="68" entryx="440" entryy="602" entryz="6" rent="0" townid="0" size="16"/>
+  <house name="Solaris House 69" houseid="69" entryx="443" entryy="595" entryz="6" rent="0" townid="0" size="16"/>
+  <house name="Solaris House 70" houseid="70" entryx="443" entryy="601" entryz="6" rent="0" townid="0" size="13"/>
+  <house name="Solaris House 71" houseid="71" entryx="442" entryy="579" entryz="6" rent="0" townid="0" size="16"/>
+  <house name="Solaris House 72" houseid="72" entryx="452" entryy="573" entryz="6" rent="0" townid="0" size="38"/>
+  <house name="Solaris House 73" houseid="73" entryx="469" entryy="572" entryz="6" rent="0" townid="0" size="38"/>
+  <house name="Solaris House 74" houseid="74" entryx="439" entryy="569" entryz="7" rent="0" townid="0" size="13"/>
+  <house name="Solaris House 75" houseid="75" entryx="442" entryy="567" entryz="7" rent="0" townid="0" size="10"/>
+  <house name="Solaris House 76" houseid="76" entryx="449" entryy="568" entryz="7" rent="0" townid="0" size="38"/>
+  <house name="Solaris House 77" houseid="77" entryx="456" entryy="581" entryz="7" rent="0" townid="0" size="16"/>
+  <house name="Solaris House 78" houseid="78" entryx="461" entryy="577" entryz="7" rent="0" townid="0" size="10"/>
+  <house name="Solaris House 79" houseid="79" entryx="459" entryy="569" entryz="7" rent="0" townid="0" size="30"/>
+  <house name="Solaris House 80" houseid="80" entryx="469" entryy="563" entryz="7" rent="0" townid="0" size="38"/>
+  <house name="Solaris House 81" houseid="81" entryx="476" entryy="563" entryz="7" rent="0" townid="0" size="38"/>
+  <house name="Solaris House 82" houseid="82" entryx="398" entryy="569" entryz="7" rent="0" townid="0" size="22"/>
+  <house name="Solaris House 83" houseid="83" entryx="404" entryy="565" entryz="6" rent="0" townid="0" size="15"/>
+  <house name="Solaris House 85" houseid="85" entryx="390" entryy="543" entryz="7" rent="0" townid="0" size="22"/>
+  <house name="Solaris House 86" houseid="86" entryx="412" entryy="579" entryz="6" rent="0" townid="0" size="14"/>
+  <house name="Solaris House 87" houseid="87" entryx="409" entryy="586" entryz="6" rent="0" townid="0" size="14"/>
+  <house name="Solaris House 88" houseid="88" entryx="423" entryy="592" entryz="6" rent="0" townid="0" size="43"/>
+  <house name="Solaris House 89" houseid="89" entryx="454" entryy="587" entryz="7" rent="0" townid="0" size="32"/>
+  <house name="Solaris House 90" houseid="90" entryx="456" entryy="595" entryz="7" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 91" houseid="91" entryx="463" entryy="584" entryz="7" rent="0" townid="0" size="22"/>
+  <house name="Solaris House 92" houseid="92" entryx="470" entryy="584" entryz="7" rent="0" townid="0" size="26"/>
+  <house name="Solaris House 93" houseid="93" entryx="465" entryy="595" entryz="7" rent="0" townid="0" size="28"/>
+  <house name="Solaris House 94" houseid="94" entryx="469" entryy="595" entryz="7" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 95" houseid="95" entryx="474" entryy="595" entryz="7" rent="0" townid="0" size="16"/>
+  <house name="Solaris House 96" houseid="96" entryx="478" entryy="593" entryz="7" rent="0" townid="0" size="22"/>
+  <house name="Solaris House 97" houseid="97" entryx="485" entryy="595" entryz="7" rent="0" townid="0" size="28"/>
+  <house name="Solaris House 98" houseid="98" entryx="492" entryy="595" entryz="7" rent="0" townid="0" size="23"/>
+  <house name="Solaris House 99" houseid="99" entryx="494" entryy="598" entryz="7" rent="0" townid="0" size="14"/>
+  <house name="Solaris House 100" houseid="100" entryx="494" entryy="603" entryz="7" rent="0" townid="0" size="10"/>
+  <house name="Solaris House 101" houseid="101" entryx="487" entryy="599" entryz="7" rent="0" townid="0" size="22"/>
+  <house name="Solaris House 102" houseid="102" entryx="479" entryy="599" entryz="7" rent="0" townid="0" size="22"/>
+  <house name="Solaris House 103" houseid="103" entryx="473" entryy="599" entryz="7" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 104" houseid="104" entryx="468" entryy="599" entryz="7" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 105" houseid="105" entryx="462" entryy="599" entryz="7" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 106" houseid="106" entryx="456" entryy="599" entryz="7" rent="0" townid="0" size="10"/>
+  <house name="Solaris House 107" houseid="107" entryx="484" entryy="568" entryz="7" rent="0" townid="0" size="41"/>
+  <house name="Solaris House 108" houseid="108" entryx="479" entryy="580" entryz="6" rent="0" townid="0" size="20"/>
+  <house name="Solaris House 109" houseid="109" entryx="463" entryy="590" entryz="6" rent="0" townid="0" size="28"/>
+  <house name="Solaris House 111" houseid="111" entryx="462" entryy="599" entryz="6" rent="0" townid="0" size="40"/>
+  <house name="Solaris House 112" houseid="112" entryx="472" entryy="596" entryz="6" rent="0" townid="0" size="13"/>
+  <house name="Solaris House 113" houseid="113" entryx="470" entryy="590" entryz="6" rent="0" townid="0" size="33"/>
+  <house name="Solaris House 114" houseid="114" entryx="465" entryy="600" entryz="6" rent="0" townid="0" size="7"/>
+  <house name="Solaris House 115" houseid="115" entryx="469" entryy="600" entryz="6" rent="0" townid="0" size="7"/>
+  <house name="Solaris House 116" houseid="116" entryx="473" entryy="600" entryz="6" rent="0" townid="0" size="13"/>
+  <house name="Solaris House 117" houseid="117" entryx="478" entryy="595" entryz="6" rent="0" townid="0" size="35"/>
+  <house name="Solaris House 118" houseid="118" entryx="479" entryy="600" entryz="6" rent="0" townid="0" size="13"/>
+  <house name="Solaris House 119" houseid="119" entryx="485" entryy="600" entryz="6" rent="0" townid="0" size="13"/>
+  <house name="Solaris House 120" houseid="120" entryx="484" entryy="595" entryz="6" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 121" houseid="121" entryx="489" entryy="595" entryz="6" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 122" houseid="122" entryx="491" entryy="600" entryz="6" rent="0" townid="0" size="10"/>
+  <house name="Solaris House 123" houseid="123" entryx="496" entryy="600" entryz="6" rent="0" townid="0" size="13"/>
+  <house name="Solaris House 124" houseid="124" entryx="493" entryy="595" entryz="6" rent="0" townid="0" size="13"/>
+  <house name="Solaris House 125" houseid="125" entryx="487" entryy="581" entryz="6" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 126" houseid="126" entryx="487" entryy="583" entryz="5" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 127" houseid="127" entryx="495" entryy="576" entryz="6" rent="0" townid="0" size="25"/>
+  <house name="Solaris House 128" houseid="128" entryx="503" entryy="574" entryz="6" rent="0" townid="0" size="28"/>
+  <house name="Solaris House 129" houseid="129" entryx="509" entryy="574" entryz="6" rent="0" townid="0" size="28"/>
+  <house name="Solaris House 1130" houseid="130" entryx="505" entryy="566" entryz="6" rent="0" townid="0" size="14"/>
+  <house name="Solaris House 131" houseid="131" entryx="505" entryy="560" entryz="6" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 132" houseid="132" entryx="509" entryy="560" entryz="6" rent="0" townid="0" size="18"/>
+  <house name="Solaris House 133" houseid="133" entryx="509" entryy="566" entryz="6" rent="0" townid="0" size="14"/>
+  <house name="Solaris House 134" houseid="134" entryx="393" entryy="551" entryz="7" rent="0" townid="0" size="356"/>
+  <house name="Solaris house 135" houseid="135" entryx="407" entryy="545" entryz="6" rent="0" townid="0" size="22"/>
+  <house name="Ashauchi house 2" houseid="139" entryx="623" entryy="688" entryz="7" rent="0" townid="0" size="40"/>
+  <house name="Ashauchi house 3" houseid="140" entryx="625" entryy="682" entryz="7" rent="0" townid="0" size="42"/>
+  <house name="Ashauchi house 4" houseid="141" entryx="621" entryy="672" entryz="7" rent="0" townid="0" size="38"/>
+  <house name="Ashauchi house 5" houseid="142" entryx="621" entryy="665" entryz="7" rent="0" townid="0" size="36"/>
+  <house name="Ashauchi house 6" houseid="143" entryx="651" entryy="689" entryz="7" rent="0" townid="0" size="36"/>
+  <house name="Ashauchi house 7" houseid="144" entryx="637" entryy="675" entryz="7" rent="0" townid="0" size="30"/>
+  <house name="Ashauchi house 8" houseid="145" entryx="641" entryy="675" entryz="7" rent="0" townid="0" size="25"/>
+  <house name="Ashauchi house 9" houseid="146" entryx="647" entryy="675" entryz="7" rent="0" townid="0" size="11"/>
+  <house name="Ashauchi house 10" houseid="147" entryx="650" entryy="662" entryz="7" rent="0" townid="0" size="48"/>
+  <house name="Ashauchi house 11" houseid="148" entryx="666" entryy="659" entryz="7" rent="0" townid="0" size="40"/>
+  <house name="Ashauchi house 12" houseid="149" entryx="652" entryy="654" entryz="7" rent="0" townid="0" size="10"/>
+  <house name="Ashauchi house 13" houseid="150" entryx="652" entryy="650" entryz="7" rent="0" townid="0" size="10"/>
+  <house name="Ashauchi house 14" houseid="151" entryx="652" entryy="646" entryz="7" rent="0" townid="0" size="10"/>
+  <house name="Ashauchi house 15" houseid="152" entryx="656" entryy="646" entryz="7" rent="0" townid="0" size="10"/>
+  <house name="Ashauchi house 16" houseid="153" entryx="656" entryy="650" entryz="7" rent="0" townid="0" size="10"/>
+  <house name="Ashauchi house 17" houseid="154" entryx="656" entryy="654" entryz="7" rent="0" townid="0" size="10"/>
+  <house name="Ashauchi house 18" houseid="155" entryx="652" entryy="647" entryz="6" rent="0" townid="0" size="10"/>
+  <house name="Ashauchi house 19" houseid="156" entryx="652" entryy="651" entryz="6" rent="0" townid="0" size="10"/>
+  <house name="Ashauchi house 20" houseid="157" entryx="652" entryy="655" entryz="6" rent="0" townid="0" size="10"/>
+  <house name="Ashauchi house 21" houseid="158" entryx="656" entryy="647" entryz="6" rent="0" townid="0" size="10"/>
+  <house name="Ashauchi house 22" houseid="159" entryx="656" entryy="651" entryz="6" rent="0" townid="0" size="10"/>
+  <house name="Ashauchi house 23" houseid="160" entryx="656" entryy="655" entryz="6" rent="0" townid="0" size="10"/>
+  <house name="Ashauchi house 24" houseid="161" entryx="652" entryy="646" entryz="5" rent="0" townid="0" size="10"/>
+  <house name="Ashauchi house 25" houseid="162" entryx="652" entryy="650" entryz="5" rent="0" townid="0" size="19"/>
+  <house name="Ashauchi house 26" houseid="163" entryx="656" entryy="646" entryz="5" rent="0" townid="0" size="10"/>
+  <house name="Ashauchi house 27" houseid="164" entryx="656" entryy="650" entryz="5" rent="0" townid="0" size="22"/>
+  <house name="Ashauchi house 28" houseid="165" entryx="640" entryy="649" entryz="7" rent="0" townid="0" size="18"/>
+  <house name="Ashauchi house 29" houseid="166" entryx="632" entryy="643" entryz="7" rent="0" townid="0" size="18"/>
+  <house name="Ashauchi house 30" houseid="167" entryx="627" entryy="643" entryz="7" rent="0" townid="0" size="28"/>
+  <house name="Ashauchi house 31" houseid="168" entryx="625" entryy="641" entryz="6" rent="0" townid="0" size="16"/>
+  <house name="Ashauchi house 32" houseid="169" entryx="624" entryy="652" entryz="7" rent="0" townid="0" size="52"/>
+  <house name="Ashauchi house 33" houseid="170" entryx="639" entryy="655" entryz="6" rent="0" townid="0" size="6"/>
+  <house name="Ashauchi house 34" houseid="171" entryx="635" entryy="655" entryz="6" rent="0" townid="0" size="7"/>
+  <house name="Ashauchi house 35" houseid="172" entryx="636" entryy="658" entryz="6" rent="0" townid="0" size="27"/>
+  <house name="Ashauchi house 36" houseid="173" entryx="682" entryy="669" entryz="7" rent="0" townid="0" size="39"/>
+  <house name="Ashauchi house 37" houseid="174" entryx="693" entryy="670" entryz="7" rent="0" townid="0" size="14"/>
+  <house name="Ashauchi house 38" houseid="175" entryx="692" entryy="674" entryz="7" rent="0" townid="0" size="35"/>
+  <house name="Ashauchi house 39" houseid="176" entryx="673" entryy="687" entryz="7" rent="0" townid="0" size="23"/>
+  <house name="Ashauchi house 40" houseid="177" entryx="668" entryy="692" entryz="7" rent="0" townid="0" size="18"/>
+  <house name="Ashauchi house 41" houseid="178" entryx="668" entryy="699" entryz="7" rent="0" townid="0" size="30"/>
+  <house name="Ashauchi house 42" houseid="179" entryx="675" entryy="694" entryz="7" rent="0" townid="0" size="18"/>
+  <house name="Ashauchi house 43" houseid="180" entryx="677" entryy="688" entryz="7" rent="0" townid="0" size="40"/>
+  <house name="Ashauchi house 44" houseid="181" entryx="667" entryy="698" entryz="6" rent="0" townid="0" size="29"/>
+  <house name="Versia Camp House #2" houseid="183" entryx="669" entryy="196" entryz="7" rent="0" townid="0" size="22"/>
+  <house name="Versia Camp House #3" houseid="184" entryx="692" entryy="180" entryz="7" rent="0" townid="0" size="13"/>
+  <house name="Versia Camp House #4" houseid="185" entryx="692" entryy="176" entryz="7" rent="0" townid="0" size="14"/>
+  <house name="Versia Camp House #5" houseid="186" entryx="692" entryy="171" entryz="7" rent="0" townid="0" size="14"/>
+  <house name="Versia City House #1" houseid="188" entryx="545" entryy="294" entryz="7" rent="0" townid="2" size="9"/>
+  <house name="Versia City House #2" houseid="189" entryx="545" entryy="298" entryz="7" rent="0" townid="2" size="9"/>
+  <house name="Versia City House #3" houseid="190" entryx="545" entryy="302" entryz="7" rent="0" townid="2" size="9"/>
+  <house name="Versia City House #4" houseid="191" entryx="546" entryy="294" entryz="7" rent="0" townid="2" size="9"/>
+  <house name="Versia City House #5" houseid="192" entryx="546" entryy="298" entryz="7" rent="0" townid="2" size="9"/>
+  <house name="Versia City House #7" houseid="194" entryx="544" entryy="308" entryz="7" rent="0" townid="2" size="22"/>
+  <house name="Versia City House #8" houseid="195" entryx="545" entryy="294" entryz="6" rent="0" townid="2" size="9"/>
+  <house name="Versia City House #9" houseid="196" entryx="546" entryy="294" entryz="6" rent="0" townid="2" size="9"/>
+  <house name="Versia City House #10" houseid="197" entryx="545" entryy="298" entryz="6" rent="0" townid="2" size="12"/>
+  <house name="Versia City House #11" houseid="198" entryx="546" entryy="298" entryz="6" rent="0" townid="2" size="12"/>
+  <house name="Versia City House #12" houseid="199" entryx="575" entryy="301" entryz="7" rent="0" townid="2" size="21"/>
+  <house name="Versia City House #13" houseid="200" entryx="618" entryy="333" entryz="7" rent="0" townid="2" size="17"/>
+  <house name="Versia City House #14" houseid="201" entryx="627" entryy="302" entryz="7" rent="0" townid="2" size="39"/>
+  <house name="Versia City House #15" houseid="202" entryx="579" entryy="287" entryz="7" rent="0" townid="2" size="18"/>
+  <house name="Versia City House #16" houseid="203" entryx="593" entryy="285" entryz="7" rent="0" townid="2" size="18"/>
+  <house name="Unnamed House #204" houseid="204" entryx="240" entryy="762" entryz="3" rent="0" townid="1" size="32"/>
+  <house name="Unnamed House #205" houseid="205" entryx="232" entryy="762" entryz="3" rent="0" townid="1" size="36"/>
+  <house name="Unnamed House #206" houseid="206" entryx="245" entryy="754" entryz="3" rent="0" townid="1" size="32"/>
+  <house name="Unnamed House #207" houseid="207" entryx="248" entryy="789" entryz="3" rent="0" townid="1" size="16"/>
+  <house name="Versia City House #17" houseid="208" entryx="562" entryy="300" entryz="7" rent="0" townid="2" size="9"/>
+  <house name="Versia City House #18" houseid="209" entryx="566" entryy="300" entryz="7" rent="0" townid="2" size="9"/>
+  <house name="Versia City House #19" houseid="210" entryx="570" entryy="300" entryz="7" rent="0" townid="2" size="9"/>
+  <house name="Versia City House #20" houseid="211" entryx="565" entryy="311" entryz="7" rent="0" townid="2" size="18"/>
+  <house name="Versia City House #21" houseid="212" entryx="571" entryy="311" entryz="7" rent="0" townid="2" size="18"/>
+  <house name="Versia City House #22" houseid="213" entryx="584" entryy="311" entryz="7" rent="0" townid="2" size="18"/>
+  <house name="Versia City House #24" houseid="215" entryx="583" entryy="314" entryz="7" rent="0" townid="2" size="13"/>
+  <house name="Versia City House #25" houseid="216" entryx="592" entryy="310" entryz="7" rent="0" townid="2" size="13"/>
+  <house name="Versia City House #26" houseid="217" entryx="593" entryy="309" entryz="7" rent="0" townid="2" size="7"/>
+  <house name="Versia City House #27" houseid="218" entryx="577" entryy="319" entryz="7" rent="0" townid="2" size="9"/>
+  <house name="Versia City House #28" houseid="220" entryx="578" entryy="322" entryz="7" rent="0" townid="2" size="9"/>
+  <house name="Versia City House #29" houseid="221" entryx="590" entryy="314" entryz="7" rent="0" townid="2" size="22"/>
+  <house name="Versia City House #30" houseid="222" entryx="596" entryy="314" entryz="7" rent="0" townid="2" size="10"/>
+  <house name="Versia City House #31" houseid="223" entryx="589" entryy="326" entryz="7" rent="0" townid="2" size="9"/>
+  <house name="Versia City House #32" houseid="224" entryx="600" entryy="321" entryz="7" rent="0" townid="2" size="50"/>
+  <house name="Versia City House #33" houseid="225" entryx="589" entryy="328" entryz="7" rent="0" townid="2" size="18"/>
+  <house name="Versia City House #35" houseid="227" entryx="579" entryy="325" entryz="7" rent="0" townid="2" size="37"/>
+  <house name="Versia City House #36" houseid="228" entryx="613" entryy="333" entryz="7" rent="0" townid="2" size="20"/>
+  <house name="Versia City House #37" houseid="229" entryx="626" entryy="332" entryz="7" rent="0" townid="2" size="33"/>
+  <house name="Versia City House #38" houseid="230" entryx="630" entryy="330" entryz="7" rent="0" townid="2" size="32"/>
+  <house name="Versia City House #39" houseid="231" entryx="634" entryy="321" entryz="7" rent="0" townid="2" size="30"/>
+  <house name="Versia City House #40" houseid="232" entryx="635" entryy="314" entryz="7" rent="0" townid="2" size="24"/>
+  <house name="Versia City House #41" houseid="233" entryx="632" entryy="308" entryz="7" rent="0" townid="2" size="18"/>
+  <house name="Versia City House #42" houseid="234" entryx="546" entryy="302" entryz="7" rent="0" townid="2" size="9"/>
+  <house name="~*# Versia Guild House #*~" houseid="235" entryx="612" entryy="315" entryz="7" rent="0" townid="2" size="551"/>
+</houses>

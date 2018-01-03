@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Gems Seller" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="152" head="114" body="94" legs="114" feet="0" addons="2"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Ola |PLAYERNAME|. Eu vendo itens rings. Diga {trade}."/>
+		<parameter key="shop_sellable" value="ring of the sky,2123,5000; gold ring,2179,2500"/>
+		<parameter key="shop_buyable" value="yellow gem,2154,1000000;green gem,2155,1000000;blue gem,2158,1000000;red gem,2156,1000000"/>
+	</parameters>
+</npc>

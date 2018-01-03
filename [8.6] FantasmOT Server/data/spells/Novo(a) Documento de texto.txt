@@ -1,0 +1,16 @@
+                <instant name="Gema de Sorc" words="zesshou hachimon" lvl="200" mana="3100" prem="1" selftarget="1" exhaustion="1200" needlearn="0" script="vip/Gema Sorc.lua">
+		<vocation name="Sorcerer"/>    
+		<vocation name="Master Sorcerer"/>
+        </instant>
+	<instant name="Gema de Druid" words="jukai kousan" lvl="200" mana="2400" prem="1" selftarget="1" exhaustion="1200" needlearn="0" script="vip/Gema Druid.lua">
+		<vocation name="Druid"/>
+                <vocation name="Elder Druid" />
+        </instant>
+	<instant name="Gema de Pala" words="mugen shiki" lvl="200" manapercent="60" prem="1" selftarget="1" exhaustion="1200" needlearn="0" script="vip/Gema Pala.lua">
+		<vocation name="Paladin"/>    
+		<vocation name="Royal Paladin"/>
+        </instant>
+	<instant name="Gema de Kina" words="yahumuki" lvl="200" manapercent="90" prem="1" selftarget="1" exhaustion="1200" needlearn="0" script="vip/Gema Kina.lua">
+		<vocation name="Knight"/>    
+	        <vocation name="Elite Knight"/>
+	</instant>

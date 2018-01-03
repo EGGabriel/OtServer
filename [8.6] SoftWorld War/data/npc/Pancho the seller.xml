@@ -1,0 +1,9 @@
+<npc name="Pancho the seller" script="data/npc/scripts/default.lua" walkinterval="25" floorchange="0" access="5" level="1" maglevel="1">
+	<health now="151" max="150"/>
+	<look type="134" head="114" body="113" legs="113" feet="113" addons="3" corpse="2212"/>
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="message_greet" value="Hello |PLAYERNAME|. I sell various items to assist you in your fighting." />
+<parameter key="shop_buyable" value="Soft Boots,6132,20000;Underworld Rod,8910,10000;Wand of Voodoo,8922,10000;Yalahari Mask,9778,10000;Spellbook of Dark Mysteries,8918,10000;master archer's armor,8888,10000;yalahari leg piece,9777,10000;fireborn giant armor,8881,10000;emerald sword,8930,10000;hellforged axe,8924,10000;obsidian truncheon,8928,10000;robe of the underworld,8890,10000;brown mushroom,2789,10,1;The Avenger,6528,10000;yalahari armor,9776,10000;god flowers,2100,100;Oceanborn Leviathan Armor,8884,10000;Windborn Colossus Armor,8883,10000;Earthborn Titan Armor,8882,10000;Divine Plate,8885,10000;Robe of the Ice Queen,8866,10000" />
+	</parameters>
+</npc>

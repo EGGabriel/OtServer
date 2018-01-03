@@ -1,0 +1,16 @@
+function onUse(cid, item, frompos, item2, topos)
+piece1pos = {x=588, y=868, z=11, stackpos=1}
+rockpos = {x=588, y=868, z=11, stackpos=1}
+getpiece1 = getThingfromPos(piece1pos)
+if item.uid == 5050 and item.itemid == 1945 and getpiece1.itemid == 9787 then
+doRemoveItem(getpiece1.uid,1)
+doTransformItem(item.uid,item.itemid+1)
+elseif item.uid == 5050 and item.itemid == 1946 then
+doCreateItem(9787,1,rockpos)
+doTransformItem(item.uid,item.itemid-1)
+else
+doPlayerSendTextMessage(cid,22,"Sorry, not possible.")
+end
+return 1
+end
+

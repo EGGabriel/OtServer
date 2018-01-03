@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+  <spawn centerx="1003" centery="983" centerz="10" radius="1"/>
+  <spawn centerx="1000" centery="1004" centerz="10" radius="1">
+    <npc name="Varkhal" x="-1" y="0" z="10" spawntime="63"/>
+  </spawn>
+  <spawn centerx="995" centery="985" centerz="11" radius="20">
+    <monster name="Trainer" x="-7" y="-14" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-5" y="-14" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-3" y="-14" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-1" y="-14" z="11" spawntime="60"/>
+    <monster name="Trainer" x="1" y="-14" z="11" spawntime="60"/>
+    <monster name="Trainer" x="3" y="-14" z="11" spawntime="60"/>
+    <monster name="Trainer" x="5" y="-14" z="11" spawntime="60"/>
+    <monster name="Trainer" x="7" y="-14" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-7" y="-13" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-5" y="-13" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-3" y="-13" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-1" y="-13" z="11" spawntime="60"/>
+    <monster name="Trainer" x="1" y="-13" z="11" spawntime="60"/>
+    <monster name="Trainer" x="3" y="-13" z="11" spawntime="60"/>
+    <monster name="Trainer" x="5" y="-13" z="11" spawntime="60"/>
+    <monster name="Trainer" x="7" y="-13" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-7" y="-5" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-5" y="-5" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-3" y="-5" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-1" y="-5" z="11" spawntime="60"/>
+    <monster name="Trainer" x="1" y="-5" z="11" spawntime="60"/>
+    <monster name="Trainer" x="3" y="-5" z="11" spawntime="60"/>
+    <monster name="Trainer" x="5" y="-5" z="11" spawntime="60"/>
+    <monster name="Trainer" x="7" y="-5" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-7" y="-4" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-5" y="-4" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-3" y="-4" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-1" y="-4" z="11" spawntime="60"/>
+    <monster name="Trainer" x="1" y="-4" z="11" spawntime="60"/>
+    <monster name="Trainer" x="3" y="-4" z="11" spawntime="60"/>
+    <monster name="Trainer" x="5" y="-4" z="11" spawntime="60"/>
+    <monster name="Trainer" x="7" y="-4" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-7" y="4" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-5" y="4" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-3" y="4" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-1" y="4" z="11" spawntime="60"/>
+    <monster name="Trainer" x="1" y="4" z="11" spawntime="60"/>
+    <monster name="Trainer" x="3" y="4" z="11" spawntime="60"/>
+    <monster name="Trainer" x="5" y="4" z="11" spawntime="60"/>
+    <monster name="Trainer" x="7" y="4" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-7" y="5" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-5" y="5" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-3" y="5" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-1" y="5" z="11" spawntime="60"/>
+    <monster name="Trainer" x="1" y="5" z="11" spawntime="60"/>
+    <monster name="Trainer" x="3" y="5" z="11" spawntime="60"/>
+    <monster name="Trainer" x="5" y="5" z="11" spawntime="60"/>
+    <monster name="Trainer" x="7" y="5" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-7" y="13" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-5" y="13" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-3" y="13" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-1" y="13" z="11" spawntime="60"/>
+    <monster name="Trainer" x="1" y="13" z="11" spawntime="60"/>
+    <monster name="Trainer" x="3" y="13" z="11" spawntime="60"/>
+    <monster name="Trainer" x="5" y="13" z="11" spawntime="60"/>
+    <monster name="Trainer" x="7" y="13" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-7" y="14" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-5" y="14" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-3" y="14" z="11" spawntime="60"/>
+    <monster name="Trainer" x="-1" y="14" z="11" spawntime="60"/>
+    <monster name="Trainer" x="1" y="14" z="11" spawntime="60"/>
+    <monster name="Trainer" x="3" y="14" z="11" spawntime="60"/>
+    <monster name="Trainer" x="5" y="14" z="11" spawntime="60"/>
+    <monster name="Trainer" x="7" y="14" z="11" spawntime="60"/>
+  </spawn>
+</spawns>

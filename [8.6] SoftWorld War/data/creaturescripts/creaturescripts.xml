@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<creaturescripts>
+
+<event type="login" name="PlayerLogin" event="script" value="login.lua"/>
+	<event type="login" name="FirstItems" event="script" value="firstitems.lua"/>
+	<event type="login" name="StartSkills" event="script" value="startskills.lua"/>
+	<event type="login" name="Lowlevellock" event="script" value="lowlevellock.lua"/>
+	<event type="kill" name="FragReward" event="script" value="onkill.lua"/>
+              <event type="death" name="DeathBroadcast" event="script" value="deathBroadcast.lua"/>
+	<event type="reportbug" name="SaveReportBug" script="reportbug.lua"/>
+	<event type="think" name="Idle" event="script" value="idle.lua"/>
+	<event type="think" name="SkullCheck" event="script" value="skullcheck.lua"/>
+                   <event type="login" name="GemSystem" event="script" value="gem.lua"/>
+</creaturescripts>
