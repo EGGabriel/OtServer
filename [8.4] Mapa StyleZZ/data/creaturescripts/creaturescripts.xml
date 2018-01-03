@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <creaturescripts>
+<!--By EG-->
+	<event type="death" name="Presente" script="presente.lua"/>
+	<event type="death" name="Pergaminho" script="pergaminho.lua"/>
+
 	<event type="login" name="Conected" script="conected.lua"/>
 	<event type="login" name="Anti-MC" event="script" value="Anti-MC.lua"/>
 	<event type="login" name="PlayerLogin" script="login.lua"/>
@@ -10,5 +14,4 @@
     <event type="kill" name="boss" script="boss.lua" />
     <event type="kill" name="owned" script="owned.lua"/>
     <event type="death" name="Pythius the rottenTeleport" script="Pythius the rotten_teleport.lua"/>
-	<event type="death" name="Presente" script="presente.lua"/>
 </creaturescripts>

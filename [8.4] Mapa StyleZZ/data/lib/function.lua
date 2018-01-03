@@ -13,6 +13,11 @@ function doRemoveGemEffect(cid)
 
 end
 
+function doPlayerAddPercentLevel(cid, percent)
+	local player_lv, player_lv_1 = getExperienceForLevel(getPlayerLevel(cid)), getExperienceForLevel(getPlayerLevel(cid)+1) 
+	local percent_lv = ((player_lv_1 - player_lv) / 100) * percent doPlayerAddExperience(cid, percent_lv) 
+end
+
 function doUseGem(cid, item)
 
   local level = getPlayerLevel(cid)
