@@ -72,6 +72,10 @@ local talkUser = NPCHANDLER_CONVBEHAVIOR == CONVERSATION_DEFAULT and 0 or cid
 			doPlayerAddItem(cid, 2110)
         	selfSay('Obrigado. Agora você ganhou um FoxWorld Doll', cid)
         	talkState[talkUser] = 0
+			setPlayerStorageValue(cid,700,0)
+			setPlayerStorageValue(cid,701,0)
+			setPlayerStorageValue(cid,702,0)
+			setPlayerStorageValue(cid,703,0)
     	else
         	selfSay('Para terminar esta missao você precisa de 1 {eternal flames}.', cid)
     	end
