@@ -18,65 +18,62 @@ function creatureSayCallback(cid, type, msg)
 local talkUser = NPCHANDLER_CONVBEHAVIOR == CONVERSATION_DEFAULT and 0 or cid
 
 	if(msgcontains(msg, 'quest')) then
-		selfSay('To start this quest tell {mission}', cid) 
+		selfSay('Para começar essa quest diga {mission}', cid) 
 	end
 -----------------------------------------------------------------
 	if(msgcontains(msg, 'mission')) then
     	if(getPlayerStorageValue(cid,700) < 1) then
-        	selfSay('Your first mission will be to get 100 {magic sulphurs}.', cid)
+        	selfSay('Sua primira missão é conseguir 100 {magic sulphurs}.', cid)
         	talkState[talkUser] = 1
     	elseif (getPlayerStorageValue(cid,701) < 1) then
-            	selfSay('Your next mission will be to get 150 {strands of medusa hair}.', cid)
+            	selfSay('Sua proxima missão é conseguir 100 {demon dust}.', cid)
             	talkState[talkUser] = 1
     	elseif (getPlayerStorageValue(cid,702) < 0) then
-            	selfSay('Your next mission will be to get 300 {red dragon scales}.', cid)
+            	selfSay('Sua proxima missão é conseguir 100 {gold nuggets}.', cid)
             	talkState[talkUser] = 1
     	elseif (getPlayerStorageValue(cid,703) < 0) then
-            	selfSay('Your next mission will be to get 400 {green dragon scales}.', cid)
+            	selfSay('Sua proxima missão é conseguir 1 {eternal flames}.', cid)
             	talkState[talkUser] = 1
     	elseif (getPlayerStorageValue(cid,703) == 1) then
-            	selfSay('You have done all missions.', cid)
+            	selfSay('Você Já acabou com todas Missões.', cid)
             	talkState[talkUser] = 1
     	end
 -------------------------------------------------------------------
     	elseif(msgcontains(msg, 'magic sulphurs') and talkState[talkUser] == 1 and (getPlayerStorageValue(cid,700) < 1)) then
     	if(doPlayerRemoveItem(cid, 5904, 100) == TRUE) then
         	setPlayerStorageValue(cid,700,1)
-        	doPlayerAddItem(cid, 8047)
-        	selfSay('Thank you.', cid)
+        	selfSay('Obrigado! Agora voce precisa de 100 {demon dust}.', cid)
         	talkState[talkUser] = 0
     	else
-        	selfSay('To end mission you need have 100 {magic sulphurs}.', cid)
+        	selfSay('Para terminar esta missao você precisa de  100 {magic sulphurs}.', cid)
     	end
 -------------------------------------------------------------------
-    	elseif(msgcontains(msg, 'strands of medusa hair') and talkState[talkUser] == 1  and (getPlayerStorageValue(cid,701) < 1) and (getPlayerStorageValue(cid,700) == 1)) then
-    	if(doPlayerRemoveItem(cid, 11226, 150) == TRUE) then
+    	elseif(msgcontains(msg, 'demon dust') and talkState[talkUser] == 1  and (getPlayerStorageValue(cid,701) < 1) and (getPlayerStorageValue(cid,700) == 1)) then
+    	if(doPlayerRemoveItem(cid, 5906, 100) == TRUE) then
         	setPlayerStorageValue(cid,701,1)
-        	doPlayerAddPercentLevel(cid, 7)
-        	selfSay('Thank you.', cid)
+        	selfSay('Obrigado! Agora voce precisa de 100 {gold nuggets}', cid)
         	talkState[talkUser] = 0
     	else
-        	selfSay('To end mission you need have 150 {strands of medusa hair}.', cid)
+        	selfSay('Para terminar esta missao você precisa de  100 {demon dust}.', cid)
     	end
 -------------------------------------------------------------------
-    	elseif(msgcontains(msg, 'red dragon scales') and talkState[talkUser] == 1  and (getPlayerStorageValue(cid,702) < 1) and (getPlayerStorageValue(cid,701) == 1)) then
-    	if(doPlayerRemoveItem(cid, 5882, 300) == TRUE) then
+    	elseif(msgcontains(msg, 'gold nuggets') and talkState[talkUser] == 1  and (getPlayerStorageValue(cid,702) < 1) and (getPlayerStorageValue(cid,701) == 1)) then
+    	if(doPlayerRemoveItem(cid, 2157, 100) == TRUE) then
         	setPlayerStorageValue(cid,702,1)
-        	doPlayerAddPercentLevel(cid, 6)
-        	selfSay('Thank you.', cid)
+        	selfSay('Obrigado! Agora voce precisa de 1 {eternal flames}', cid)
         	talkState[talkUser] = 0
     	else
-        	selfSay('To end mission you need have 300 {red dragon scales}.', cid)
+        	selfSay('Para terminar esta missao você precisa de  100 {gold nuggets}.', cid)
     	end
 -------------------------------------------------------------------
-    	elseif(msgcontains(msg, 'green dragon scales') and talkState[talkUser] == 1 and (getPlayerStorageValue(cid,703) < 1) and (getPlayerStorageValue(cid,702) == 1)) then
-    	if(doPlayerRemoveItem(cid, 5920, 400) == TRUE) then
+    	elseif(msgcontains(msg, 'eternal flames') and talkState[talkUser] == 1 and (getPlayerStorageValue(cid,703) < 1) and (getPlayerStorageValue(cid,702) == 1)) then
+    	if(doPlayerRemoveItem(cid, 8304, 1) == TRUE) then
         	setPlayerStorageValue(cid,703,1)
-        	doPlayerAddPercentLevel(cid, 5)
-        	selfSay('Thank you.', cid)
+			doPlayerAddItem(cid, 2110)
+        	selfSay('Obrigado. Agora você ganhou um FoxWorld Doll', cid)
         	talkState[talkUser] = 0
     	else
-        	selfSay('To end mission you need have 400 {green dragon scales}.', cid)
+        	selfSay('Para terminar esta missao você precisa de 1 {eternal flames}.', cid)
     	end
 -------------------------------------------------------------------
 	end
